@@ -5,3 +5,4 @@ Git has a mutable my index called stage.
 made other changes
 add a new footer. abec
 finish the new footer.
+dddddddd
